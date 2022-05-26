@@ -1,50 +1,29 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Cmaíz
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Productos elaborados 100% a base de maíz nixtamalizado
+subheading: Rescatando nuestras tierras
 mainpitch:
-  title: Why Kaldi
+  title: ¿Quiénes somos?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Cmaiz es una empresa mexicana dedicada a la elaboración y comercialización de productos derivados del maíz. Todos nuestros productos son 100% orgánicos y son preparados exclusivamente con maíz nixtamalizado en nuestras instalaciones para mayor valor nutricional y mejor sabor.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Todos nuestros productos son elaborados a base de maíz nixtamalizado dentro de nuestras instalaciones a manera de garantizar una tortilla única y nutritiva para nuestros clientes.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/prueba.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Fundada en 2019, Cmaiz es una empresa 100% mexicana basada en la Ciudad de México. Actualmente, operamos en la Alcaldía Iztapalapa y sus alrededores proveyendo a cientos de tiendas y restaurantes con producto fresco todos los días.
+    - image: /img/produce.JPG
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Nuestras tortillas y totopos son 100% orgánicos y libres de conservadores, resultando en un producto más nutritivo y de mejor sabor que nuestra competencia.
+    - image: /img/pala.JPG
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Nixtamalizamos el maíz en nuestras instalaciones todos los días a través de un proceso tradicional utilizando maquinaria de tipo artesanal.
+    - image: /img/scale.JPG
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Actualmente vendemos al mayoreo y al minoreo a restaurantes, supermercados y misceláneas de todo tipo. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
