@@ -8,6 +8,7 @@ import ref1 from '../img/produce.jpg';
 import ref2 from '../img/prueba.jpg';
 import ref3 from '../img/pala.jpg';
 import ref4 from '../img/scale.jpg';
+// eslint-disable-next-line
 import logo from '../img/logo.jpg';
 
 
