@@ -26,9 +26,9 @@ export const IndexPageTemplate = ({
       <div
           className="full-width-image-container margin-top-0"
           style={{
-            height: "400px",
-            width: "100%",
-            objectFit: "cover",
+            backgroundImage: `url('/img/cornfield.jpg')`,
+            height: "500px",
+            objectFit: "contain",
             display: "flex",
             flexDirection: "column"
           }}

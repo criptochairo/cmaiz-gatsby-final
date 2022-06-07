@@ -13,7 +13,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
     <div
       className="full-width-image-container margin-top-0"
       style={{
-        objectFit: "cover",
+        backgroundImage: `url('/img/corn-closeup.jpg')`,
+        height: "500px",
+        objectFit: "contain",
       }}
     >
       <h1

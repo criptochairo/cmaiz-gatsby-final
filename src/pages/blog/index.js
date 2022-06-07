@@ -10,7 +10,9 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            objectFit: "cover",
+            backgroundImage: `url('/img/cornfield-sunset.jpg')`,
+            height: "500px",
+            objectFit: "contain",
           }}
         >
           <h1
