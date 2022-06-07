@@ -7,7 +7,7 @@ import BlogRoll from "../components/BlogRoll";
 import ref1 from '../img/produce2.jpg';
 import ref2 from '../img/prueba.jpg';
 import ref3 from '../img/pala2.jpg';
-import ref4 from '../img/scale.jpg';
+import ref4 from '../img/scale2.jpg';
 
 
 // eslint-disable-next-line
