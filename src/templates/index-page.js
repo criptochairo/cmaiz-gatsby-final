@@ -26,8 +26,8 @@ export const IndexPageTemplate = ({
       <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/corn-closeup.jpg')`,
             height: "400px",
+            width: "100%",
             objectFit: "cover",
             display: "flex",
             flexDirection: "column"
