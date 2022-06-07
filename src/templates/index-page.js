@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
-import ref1 from '../img/produce.jpg';
+import ref1 from '../img/produce2.jpg';
 import ref2 from '../img/prueba.jpg';
 import ref3 from '../img/pala.jpg';
 import ref4 from '../img/scale.jpg';
