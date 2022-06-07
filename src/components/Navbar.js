@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import github from "../img/phone.png";
 import logo from "../img/logo.jpg";
 
 const Navbar = class extends React.Component {
@@ -69,9 +69,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 Acerca de Nosotros
               </Link>
-              <Link className="navbar-item" to="/products">
-                Productos
-              </Link>
               <Link className="navbar-item" to="/blog">
                 Publicaciones
               </Link>
@@ -82,7 +79,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="tel:5538401175"
                 target="_blank"
                 rel="noopener noreferrer"
               >

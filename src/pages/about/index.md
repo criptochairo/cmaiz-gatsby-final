@@ -1,19 +1,42 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Acerca de Nosotros
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Nuestra Historia
+Cmaiz es una empresa 100% mexicana fundada en 2019 por un grupo de jóvenes emprendedores durante los inicios de la pandemia global causada por el virus SARS-CoV-2.
+\
+\
+Ante un panorama difícil, nos esmeramos en producir productos de alta calidad a través de la industrialización de técnicas de preparación artesanales. A través del trabajo de biotecnólogos especialistas e ingenieros en alimentos, elaboramos una receta 100% orgánica y libre de conservadores para producir tortilla y totopos de alta calidad y mejor sabor que la competencia.
+\
+\
+Actualmente, nuestra primera planta de producción se encuentra en la Ciudad de México, donde elaboramos nuestros productos seis días a la semana para nuestros clientes, los cuales incluyen tiendas de abarrotes, supermercados y restaurantes de todo tipo.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Nuestros Productos
+Al elaborar nuestros productos, nuestra primera prioridad yace en la calidad de los mismos. Utilizamos ingredientes de alta calidad, provenientes de proveedores de confianza.
+\
+\
+El maíz utilizado en nuestras instalaciones proviene exclusivamente de proveedores de confianza y es 100% orgánico, a manera de evitar el uso de transgénicos y otros productos modificados.
+\
+\
+Nuestra maquinaria es de tipo artesanal y cuenta con una capacidad de producción de nivel industrial, pudiendo llegar hasta 800 kilogramos de tortilla producidos de manera diaria.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Nuestra Misión
+En Cmaiz, nuestro principal objetivo es traer de vuelta métodos de preparación tradicionales y llevarlos a un nivel de producción industrial, a manera de elevar la calidad de la tortilla para nuestros clientes y sus consumidores.
+\
+\
+Cada producto elaborado en Cmaiz trae consigo la tradición mexicana de comer tortilla de alta calidad y nos enorgullecemos de nuestro progreso hasta la fecha, buscando siempre mejorar y empujar la innovación de productos alimenticios en el país.
+<br><br>
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+# Socios y Aliados Estratégicos
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### [Home Run Fund](https://homerunfund.com/)
+
+Durante la segunda mitad del año 2021, se estableció contacto con este fondo de inversión a manera de buscar una inversión de capital por *equity*, misma que fue ejecutada exitosamente durante el primer trimestre de 2022.
+\
+\
+A partir del ingreso de Home Run como socio accionista de Cmaiz, nuestra relación se ha podido aprovechar al máximo para expandir nuestra cartera de clientes a restaurantes y supermercados de alto perfil.
+
+### [Julio Flores](https://www.linkedin.com/in/julio-alfonso-flores-garibay-1a9b25117/)
+
+Contando con amplia experiencia en el sector bancario, financiero y empresarial como ex Executive Sales Director de BBVA Leasing y Socio Director de Stream Capital, Julio Flores ha aportado su invaluable experiencia en capacidad de *Senior Advisor* para Cmaiz, apoyando nuestros esfuerzos en el desarrollo de oportunidades de negocios y nuevas oportunidades de inversión.

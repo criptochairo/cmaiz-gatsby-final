@@ -74,7 +74,7 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
+                      <h1 className="title" style={{marginTop: "-2.5em"}}>{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
                       <h3 className="subtitle">{mainpitch.description}</h3>
@@ -104,7 +104,7 @@ export const IndexPageTemplate = ({
                       <div className="ref-container content">
                       <div className="">
                         <img src={ref2} alt="#" className="column is-12" />
-                        <Link to="/products" className="has-text-centered"><h3 style={{color: "#008037"}}>Nuestros Productos</h3></Link>
+                        <Link to="/about" className="has-text-centered"><h3 style={{color: "#008037"}}>Nuestros Productos</h3></Link>
                         <p className="is-size-5 has-text-left" style={{paddingLeft: "10px"}}>Nuestras tortillas y totopos son 100% orgánicos y libres de conservadores, resultando en un producto más nutritivo y de mejor sabor que nuestra competencia.</p>
                       </div>
                         
@@ -117,7 +117,7 @@ export const IndexPageTemplate = ({
                       <div className="ref-container content">
                       <div className="">
                         <img src={ref3} alt="#" className="column is-12" />
-                        <Link to="/products" className="has-text-centered"><h3 style={{color: "#008037"}}>Procesos Artesanales</h3></Link>
+                        <Link to="/about" className="has-text-centered"><h3 style={{color: "#008037"}}>Procesos Artesanales</h3></Link>
                         <p className="is-size-5 has-text-left" style={{paddingLeft: "10px"}}>Nixtamalizamos el maíz en nuestras instalaciones todos los días a través de un proceso tradicional utilizando maquinaria de tipo artesanal.</p>
                       </div>
                         
@@ -127,7 +127,7 @@ export const IndexPageTemplate = ({
                       <div className="ref-container content">
                       <div className="">
                         <img src={ref4} alt="#" className="column is-12" />
-                        <Link to="/blog" className="has-text-centered"><h3 style={{color: "#008037"}}>Nuestros Clientes</h3></Link>
+                        <Link to="/about" className="has-text-centered"><h3 style={{color: "#008037"}}>Nuestros Clientes</h3></Link>
                         <p className="is-size-5 has-text-left" style={{paddingLeft: "10px"}}>Actualmente vendemos al mayoreo y al minoreo a restaurantes, supermercados y misceláneas de todo tipo.</p>
                       </div>
                         

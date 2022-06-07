@@ -9,20 +9,42 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
+    <>
+    <div
+      className="full-width-image-container margin-top-0"
+      style={{
+        backgroundImage: `url('/img/corn-closeup.jpg')`,
+        objectFit: "`cover`",
+      }}
+    >
+      <h1
+        className="has-text-weight-bold is-size-1"
+        style={{
+          boxShadow: "0.5rem 0 0 rgba(252, 189, 16, 0.90), -0.5rem 0 0 rgba(252, 189, 16, 0.90)",
+          backgroundColor: "rgba(252, 189, 16, 0.90)",
+          color: "white",
+          padding: "0.15em",
+          borderRadius: ".25rem",
+          fontSize: "3.5em",
+          marginBottom: "0",
+          textShadow: "1px 1px 2px black"
+        }}
+      >
+        Acerca de Nosotros
+      </h1>
+    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
+            <div className="section" style={{marginTop: "-4em"}}>
               <PageContent className="content" content={content} />
             </div>
           </div>
         </div>
       </div>
     </section>
+    </>
   );
 };
 
