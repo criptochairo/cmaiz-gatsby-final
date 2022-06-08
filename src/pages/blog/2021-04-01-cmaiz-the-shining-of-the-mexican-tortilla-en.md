@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: CMAIZ, The Shining of Mexican Tortilla
-date: 2021-04-01T00:00:00.000Z
-featuredpost: true
+date: 2021-04-01T12:00:00.000Z
+featuredpost: false
 description: An article written by Scarlet Rubí Reséndiz for Fair Planet Magazine detailing the origins of Cmaiz and one company's mission to make Mexican tortillas better.
 tags:
   - food security
