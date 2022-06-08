@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Cmaíz, el resplandor de la tortilla en México
-date: 2021-04-01T00:00:00.000Z
+date: 2021-04-01T12:00:00.000Z
 featuredpost: true
 description: Un artículo escrito por Scarlet Rubí Reséndiz para la revista Fair Planet, narrando los orígenes de Cmaiz y la misión de una empresa para mejorar la tortilla mexicana.
 tags:
